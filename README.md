@@ -20,6 +20,7 @@ This repo contains [Docker](https://docker.com) labs and tutorials authored both
 * [Docker Security](security/README.md)
 * [Docker Networking](networking/)
 * [Hands-on Labs from DockerCon US 2017](dockercon-us-2017/)
+* [Установка и настройка Docker](https://timeweb.com/ru/community/articles/ustanovka-i-nastroyka-docker-1)
 
 
 #### Community tutorials
